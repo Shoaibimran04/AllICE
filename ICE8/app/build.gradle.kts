@@ -4,6 +4,7 @@ plugins {
     id("com.google.gms.google-services")
 }
 
+
 android {
     namespace = "ca.georgiancollege.comp3025_w2024_week9"
     compileSdk = 34
