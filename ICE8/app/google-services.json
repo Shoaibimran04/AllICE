@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "111724974258",
-    "project_id": "comp3025-w2024-637fc",
-    "storage_bucket": "comp3025-w2024-637fc.appspot.com"
+    "project_number": "176741485867",
+    "project_id": "comp3025-ice8-b6fef",
+    "storage_bucket": "comp3025-ice8-b6fef.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111724974258:android:bdede169efc046549679ab",
+        "mobilesdk_app_id": "1:176741485867:android:44e5a51fb1e7947ebec96e",
         "android_client_info": {
           "package_name": "ca.georgiancollege.comp3025_w2024_week9"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDzCIai-sTmfIE1CO3YsbNkmN9z0ZEeGd0"
+          "current_key": "AIzaSyBQW47kBB0qVIAHUAPokRhyPMEih9xHDhM"
         }
       ],
       "services": {
