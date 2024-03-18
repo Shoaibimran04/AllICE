@@ -58,7 +58,9 @@ dependencies {
 
     // firebase
     implementation(platform("com.google.firebase:firebase-bom:32.7.4"))
+
     implementation("com.google.firebase:firebase-common-ktx:20.4.2")
+
     implementation("com.google.firebase:firebase-firestore-ktx:24.10.3")
 
 

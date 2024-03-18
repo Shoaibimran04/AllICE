@@ -26,7 +26,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/cell_margin"
             android:text="@string/studio_text"
-            android:textColor="@color/black" />
+            android:textColor="@color/gray" />
 
         <View
             android:id="@+id/divider"

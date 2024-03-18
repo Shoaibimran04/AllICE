@@ -12,6 +12,8 @@ import ca.georgiancollege.comp3025_w2024_week9.databinding.ActivityMainBinding
 import ca.georgiancollege.comp3025_w2024_week9.databinding.AddNewMovieItemBinding
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
+
+
 class MainActivity : AppCompatActivity() {
     // Declare an instance of the binding class
     private lateinit var binding: ActivityMainBinding
@@ -24,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?)
     {
         super.onCreate(savedInstanceState)
-        // Inflate the layout
+
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -82,6 +84,8 @@ class MainActivity : AppCompatActivity() {
         addMovieFAB.setOnClickListener{ showAddMovieDialog() }
     }
 
+
+
     private fun showAddMovieDialog()
     {
         val dialogTitle = getString(R.string.add_dialog_title)
@@ -102,6 +106,8 @@ class MainActivity : AppCompatActivity() {
         }
         builder.create().show()
     }
+
+
 
     private fun showUpdateMovieDialog(movie: Movie)
     {

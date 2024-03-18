@@ -4,5 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="subTitle_blue">#0000FF</color>
     <color name="blue">#66d3fa</color>
+    <color name="gray">#808080</color>
+
 
 </resources>
