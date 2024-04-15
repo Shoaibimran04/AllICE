@@ -1,0 +1,88 @@
+{
+  "tv_shows": [
+    {
+      "title": "Breaking Bad",
+      "genre": "Drama",
+      "seasons": 5,
+      "rating": 9.5
+    },
+    {
+      "title": "Stranger Things",
+      "genre": "Science Fiction",
+      "seasons": 4,
+      "rating": 8.7
+    },
+    {
+      "title": "The Mandalorian",
+      "genre": "Action",
+      "seasons": 3,
+      "rating": 8.8
+    },
+    {
+      "title": "Black Mirror",
+      "genre": "Drama",
+      "seasons": 5,
+      "rating": 8.8
+    },
+    {
+      "title": "Game of Thrones",
+      "genre": "Fantasy",
+      "seasons": 8,
+      "rating": 9.3
+    },
+    {
+      "title": "Sherlock",
+      "genre": "Crime",
+      "seasons": 4,
+      "rating": 9.1
+    },
+    {
+      "title": "Friends",
+      "genre": "Comedy",
+      "seasons": 10,
+      "rating": 8.9
+    },
+    {
+      "title": "The Office",
+      "genre": "Comedy",
+      "seasons": 9,
+      "rating": 8.9
+    },
+    {
+      "title": "Breaking Bad",
+      "genre": "Drama",
+      "seasons": 5,
+      "rating": 9.5
+    },
+    {
+      "title": "The Witcher",
+      "genre": "Fantasy",
+      "seasons": 2,
+      "rating": 8.2
+    },
+    {
+      "title": "Westworld",
+      "genre": "Science Fiction",
+      "seasons": 3,
+      "rating": 8.6
+    },
+    {
+      "title": "The Crown",
+      "genre": "Biography",
+      "seasons": 6,
+      "rating": 8.7
+    },
+    {
+      "title": "Stranger Things",
+      "genre": "Science Fiction",
+      "seasons": 4,
+      "rating": 8.7
+    },
+    {
+      "title": "The Simpsons",
+      "genre": "Animation",
+      "seasons": 32,
+      "rating": 8.7
+    }
+  ]
+}
