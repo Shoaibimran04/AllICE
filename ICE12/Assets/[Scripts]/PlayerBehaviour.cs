@@ -4,10 +4,14 @@ using UnityEngine;
 
 public class PlayerBehaviour : MonoBehaviour
 {
+    public AudioSource thunderSound;
+    public AudioSource yaySound;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        thunderSound = GetComponents<AudioSource>()[0];
+        yaySound = GetComponents<AudioSource>()[1];
     }
 
     // Update is called once per frame
@@ -29,4 +33,17 @@ public class PlayerBehaviour : MonoBehaviour
             transform.position = touchPosition;
         }
     }
+
+       void OnTriggerEnter2D(Collider2D other)
+    {
+        switch (other.gameObject.tag)
+        {
+            case "Island":
+                yaySound.Play();
+                break;
+            case "Cloud":
+                thunderSound.Play();
+                break;
+        }
+    }   
 }

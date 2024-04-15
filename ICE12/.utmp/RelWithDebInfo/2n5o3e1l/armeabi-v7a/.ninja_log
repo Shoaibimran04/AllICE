@@ -1,0 +1,11 @@
+# ninja log v5
+52	297	7345648661522372	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	374c543f5bc25a6f
+299	689	7345648664618910	C:/Users/tsili/OneDrive/Desktop/Georgian/COMP3025-ICES/ICE12/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2n5o3e1l/obj/armeabi-v7a/libswappywrapper.so	e12bbd1d27a9a895
+1	966	7345648668097986	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	663513347d1bcdad
+21	997	7345648668477077	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f4745fd6378fcf7
+36	1018	7345648668673202	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	eb37632dd93aa12f
+43	1129	7345648669848657	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	fe4ff745f238c250
+14	1148	7345648669994882	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	55a5a899c44bb23c
+30	1322	7345648671664184	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b7acf6fbd109def4
+9	1392	7345648672427920	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	18e7c43b7936cad5
+1392	1696	7345648674820178	C:/Users/tsili/OneDrive/Desktop/Georgian/COMP3025-ICES/ICE12/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2n5o3e1l/obj/armeabi-v7a/libgame.so	c2ed4e57a18fb8da

@@ -23,7 +23,7 @@ public class OceanController : MonoBehaviour
 
     void Move()
     {
-        transform.position -= new Vector3(0, verticalSpeed, 0);
+        transform.position -= new Vector3(0, verticalSpeed * Time.deltaTime, 0);
     }
 
     void ResetGameObject()

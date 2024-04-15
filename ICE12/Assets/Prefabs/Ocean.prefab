@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8351531258356596876}
   m_Layer: 0
   m_Name: Ocean
-  m_TagString: Untagged
+  m_TagString: Ocean
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -99,6 +99,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2e31d1d031d13b4d8154fd02a62b7dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  verticalSpeed: 0.05
+  verticalSpeed: 5
   topBound: 9.4
   bottomBound: -9.4
